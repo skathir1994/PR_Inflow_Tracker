@@ -1,0 +1,42 @@
+
+<style>
+
+.styled-table
+
+{
+  
+    margin: 5px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    width: 50%;
+}
+
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    height:18px;
+}
+
+.styled-table th
+{
+background-color: #113D8A;
+color: #ffffff;
+text-align: center;
+}
+
+.styled-table td 
+{
+    padding: 2px;
+    text-align: center;
+}
+
+table,td,th {
+border: 2px solid black;
+border-collapse: collapse;
+
+}
+
+
+</style>
+

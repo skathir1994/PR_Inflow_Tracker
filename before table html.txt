@@ -1,0 +1,6 @@
+<p style="color:blue;font-size:14px;text-align:left;">
+Hi Priya,<br/><br/>
+
+This email is from the "Price Rejects Team" regarding the inflow vs audited summary. The current pending status is {}. Find the details below. <br/>
+<br/>Today's Roasted IDs: {}.
+</p>
